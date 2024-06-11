@@ -1,0 +1,49 @@
+{
+    "students":[
+        {
+            "id":1,
+            "student_name":"hoa",
+            "email":"hoa@gmail.com",
+            "address":"ha noi",
+            "phone":"0987654321",
+            "status":"true",
+            "created_at":"10/05/2024"
+        },
+        {
+            "id":2,
+            "student_name":"hue",
+            "email":"hue@gmail.com",
+            "address":"ha tay",
+            "phone":"0987654321",
+            "status":"true",
+            "created_at":"10/05/2024"
+        },
+        {
+            "id":3,
+            "student_name":"hong",
+            "email":"hong@gmail.com",
+            "address":"ha noi",
+            "phone":"0987654321",
+            "status":"true",
+            "created_at":"10/05/2024"
+        },
+        {
+            "id":4,
+            "student_name":"huong",
+            "email":"huong@gmail.com",
+            "address":"ha noi",
+            "phone":"0987654321",
+            "status":"true",
+            "created_at":"10/05/2024"
+        },
+        {
+            "id":5,
+            "student_name":"huyen",
+            "email":"huyen@gmail.com",
+            "address":"ha tay",
+            "phone":"0987654321",
+            "status":"true",
+            "created_at":"10/05/2024"
+        }
+    ]
+}
